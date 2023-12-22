@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XpectAdmin</string>
+    <string name="bottom_nav_home_title">Home\n</string>
+    <string name="bottom_nav_setting">Settings\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PendingEvnts">Pending Events</string>
+    <string name="RegisteredUsers">Registered Users</string>
+    <string name="ApprovedEvents">Approved Events</string>
+    <string name="RejectedEvents">Rejected Events</string>
+</resources>
